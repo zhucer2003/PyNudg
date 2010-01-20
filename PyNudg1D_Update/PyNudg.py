@@ -18,11 +18,8 @@
 from __future__ import division
 from math import sqrt
 import numpy as num
-import scipy 
-import scipy.io as io 
 import scipy.linalg as linalg
 import scipy.sparse as sparse
-import numpy.linalg as solve
 
 # 1D parameters
 Nfaces = 2

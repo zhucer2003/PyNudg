@@ -19,10 +19,9 @@ from __future__ import division
 from math import sqrt
 import copy as cp
 import numpy as num
-import scipy 
+
 import scipy.linalg as linalg
 import scipy.sparse as sparse
-import numpy.linalg as solve
 import scipy.io as io
 # 2D parameters
 Nfaces=3; NODETOL = 1e-12
