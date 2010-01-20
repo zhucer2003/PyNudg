@@ -1,0 +1,15 @@
+.*.sw*
+.addressbook
+.addressbook.lu
+.dmrc
+.elinks/
+.kde/
+.matlab/
+.mcop/
+.pinerc
+.qt/
+PyNudg.tar
+PyNudg1D/
+git_rsa
+git_rsa.pub
+
