@@ -1,3 +1,5 @@
+*.eps
+*.pyc
 *.out
 *.swp
 *.png
