@@ -1,3 +1,6 @@
+*.out
+*.swp
+*.png
 .*.sw*
 .addressbook
 .addressbook.lu
