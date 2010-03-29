@@ -20,6 +20,8 @@ from math import sqrt
 import numpy as num
 import scipy.linalg as linalg
 import scipy.sparse as sparse
+import scipy.io as io
+
 
 # 1D parameters
 Nfaces = 2

@@ -1,0 +1,6 @@
+include PyNudg1D_Update/*.neu
+include PyNudg2D_Curve/*.neu
+include PyNudg2D/*.neu
+include PyNudg1D_Update/*.mat
+include PyNudg2D_Curve/*.mat
+include PyNudg2D/*.mat
